@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Priyan 👋
 
-<!--
-**priyadharshan-dev/priyadharshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) student  
+💻 Preparing for SDE internships  
+🧠 Strong focus on Data Structures & Algorithms  
+🚀 Building projects and documenting my journey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech (learning & using)
+- Python (DSA)
+- Git & GitHub
+
+---
+
+## 📈 Current Focus
+- Consistent DSA practice
+- Writing clean, readable code
+- Learning backend development next
+
+---
+
+## 📫 Let's connect
+- LinkedIn: linkedin.com/in/priyadharshan-b-
+
